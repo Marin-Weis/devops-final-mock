@@ -1,1 +1,1 @@
-echo "Team A"
+echo "Team B"
